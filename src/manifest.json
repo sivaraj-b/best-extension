@@ -1,0 +1,9 @@
+{
+  "name":"Message passing",
+  "version":"1.0.0",
+  "description":"Mesaage passing back and forth to a web app to an extension",
+  "manifest_version":3,
+  "action": {
+    "default_popup": "index.html"
+  }
+}
